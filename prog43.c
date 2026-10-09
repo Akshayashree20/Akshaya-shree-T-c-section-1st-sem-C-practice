@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main (){
+int n;//1
+scanf("%d",&n);
+for(int i=10;i>=n;i--){
+   printf("%d",i);
+   }
+ return 0;  
+}
